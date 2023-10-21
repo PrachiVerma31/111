@@ -1,0 +1,16 @@
+h3{
+text-align: center;
+width:40%;
+font-family: monospace;
+}
+
+body{
+    text-align: center;
+    background: lightblue;
+}
+
+.camera{
+    width: 80px;
+    height: 80px;
+    border-style: dashed black;
+}
